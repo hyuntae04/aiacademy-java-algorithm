@@ -39,4 +39,5 @@ class 비만도측정 {
         name, height, kg, bmi, degree);
         return title + answer;
     }
+    /*수정2023.1.17*/
 }
