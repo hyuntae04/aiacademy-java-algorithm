@@ -25,5 +25,11 @@ class 마지막날짜{
         }
         return title + answer;  
     }
+
+    public String get()
+    {
+        return "done!";
+    }
+
 }
 
