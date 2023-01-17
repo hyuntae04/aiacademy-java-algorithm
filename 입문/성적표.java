@@ -11,4 +11,10 @@ public class 성적표 {
         String answer = "";
         return title + answer;
     }
+
+    public String Update()
+    {
+        System.out.println("hihi");
+        return "done";
+    }
 }
